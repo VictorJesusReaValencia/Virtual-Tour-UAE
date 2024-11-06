@@ -8,8 +8,8 @@ This project is an interactive virtual tour using [Photo Sphere Viewer](https://
 - **Bootstrap** (if used for the interface)
 
 ## Screenshots
-![Main scene](./src/images/escena-principal.png)
-![Information hotspot](./src/images/hotspot-informacion.png)
+![Main scene](./src/images/captura1.png)
+![Information hotspot](./src/images/captura2.png)
 
 ## Features
 - 360° navigation between scenes.
